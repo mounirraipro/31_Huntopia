@@ -1,0 +1,314 @@
+{
+  "name": "Huntopia",
+  "domain": "huntopia.online",
+  "slug": "huntopia",
+  "genre": "Casual",
+  "iframeUrl": "/game/index.html",
+
+  "seo": {
+    "title": "Huntopia – Free Casual Game Online | Play Now",
+    "description": "Play Huntopia free online — a casual browser game with simple controls and instant action. No download, no account needed. Start playing in seconds.",
+    "keywords": ["Huntopia", "Huntopia online", "free casual game online", "easy browser game", "play casual game no download", "Huntopia game", "quick browser game free"]
+  },
+
+  "homepage": {
+    "heroHeadline": "Huntopia — Free Casual Game Online",
+    "heroSubtitle": "Pick up and play instantly. Simple controls, satisfying sessions. No download, no account.",
+    "lede": "Huntopia is a free casual browser game built for quick, satisfying sessions. Simple one-touch controls, no punishing fail states, and a gameplay loop designed to be picked up and put down any time — no installation required.",
+    "stats": [
+      { "value": "100+",  "label": "Stages" },
+      { "value": "1",     "label": "Tap to Play" },
+      { "value": "0",     "label": "Downloads Needed" },
+      { "value": "100%",  "label": "Free Forever" }
+    ],
+    "about": {
+      "kicker": "What is Huntopia?",
+      "headline": "Casual play that fits into any schedule.",
+      "paragraph1": "Huntopia is a casual game designed for short, stress-free sessions. The controls are immediate — click or tap to interact, and the game responds clearly to every input. There is no steep learning curve, no complex systems to learn before the fun begins, and no punishment for mistakes. Each session is self-contained and completable in a few minutes.",
+      "paragraph2": "The game runs entirely in your browser without any download or account. Open it on your phone during a break or on your desktop at home — Huntopia loads instantly and plays consistently on any device."
+    },
+    "howToPlay": {
+      "headline": "Start playing Huntopia in under a minute.",
+      "subheading": "One tap gets you started. Everything else you will pick up naturally within the first two minutes."
+    },
+    "steps": [
+      { "icon": "folder",       "title": "Open the Game",           "desc": "Navigate to the Play page. Huntopia loads immediately in your browser — no download, no account, no payment required." },
+      { "icon": "eye",          "title": "See What Is on Screen",   "desc": "The play area is clear by design. Targets and interactive elements are visually distinct — you will instantly understand what needs your attention." },
+      { "icon": "refresh",      "title": "Tap or Click to Act",     "desc": "Huntopia uses simple one-touch controls. Tap or click on targets when the moment is right. Timing and accuracy are the core skills the game develops." },
+      { "icon": "puzzle",       "title": "Progress Through Stages", "desc": "Each stage introduces a slight variation or increase in speed. The difficulty curve is forgiving — new mechanics arrive gradually, never all at once." },
+      { "icon": "check-circle", "title": "Complete Each Session",   "desc": "Sessions end cleanly with a clear result. There is no penalty for stopping mid-game. Pick up where you left off or start fresh — the choice is yours." }
+    ],
+    "categories": [
+      { "name": "Casual",      "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
+      { "name": "Regular",     "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
+      { "name": "Seasoned",    "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
+      { "name": "Veteran",     "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
+      { "name": "Champion",    "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+    ],
+    "features": [
+      { "icon": "bolt",   "title": "Instant Play",             "desc": "Open Huntopia in any browser and the game is running in seconds. No install, no account, no waiting — just immediate play." },
+      { "icon": "target", "title": "Clear Objectives",         "desc": "Every stage has a straightforward goal. What you need to do is always visible, so you can focus on doing it rather than decoding the interface." },
+      { "icon": "device", "title": "Cross-Platform",           "desc": "Touch controls on mobile, mouse on desktop. Huntopia plays smoothly on every device and screen size without adjustments from you." },
+      { "icon": "image",  "title": "Bright Visual Feedback",   "desc": "Every successful action triggers immediate visual confirmation. The game responds clearly to every tap and click, making progress feel satisfying." },
+      { "icon": "shield", "title": "Safe for All Ages",        "desc": "No in-app purchases, no advertising targeting children, no chat features. Huntopia is safe and appropriate for players of every age." },
+      { "icon": "music",  "title": "Light Audio Design",       "desc": "Sound effects confirm every action without overwhelming the experience. Background audio sets an energetic but relaxed tone for casual sessions." }
+    ],
+    "faq": [
+      { "q": "What is Huntopia?",             "a": "Huntopia is a free casual browser game with simple tap-or-click controls and short, self-contained play sessions. It is designed for quick, stress-free play on any device." },
+      { "q": "Is Huntopia free?",             "a": "Yes — Huntopia is entirely free. There are no paywalls, no in-app purchases, and no premium subscriptions." },
+      { "q": "Does Huntopia work on mobile?", "a": "Yes. Huntopia runs in any modern mobile browser with full touch support. No app download is required." },
+      { "q": "How many levels are there?",    "a": "Huntopia features over 100 stages with a forgiving progression curve. Each stage introduces small variations to keep sessions feeling fresh." },
+      { "q": "Is Huntopia safe for kids?",    "a": "Yes. There are no in-app purchases, no ads targeting children, and no social features. The game is safe and age-appropriate for all players." },
+      { "q": "Do I need an account?",         "a": "No account is required. Open the Play page and start immediately — no registration, email, or personal information needed." }
+    ],
+    "cta": {
+      "headline": "Ready to play your first stage?",
+      "subtext": "No download, no sign-up. Open Huntopia in your browser and start playing within seconds."
+    }
+  },
+
+  "playPage": {
+    "howItWorksSubtitle": "Three steps to your first Huntopia session",
+    "steps": [
+      { "title": "Open the Game",        "desc": "Visit the Play page. Huntopia loads instantly in any browser — no install, no account needed." },
+      { "title": "Tap or Click to Play", "desc": "Use simple one-touch or mouse controls to interact with targets. The objective is always clear on screen." },
+      { "title": "Complete Each Stage",  "desc": "Finish stages to progress. Sessions are short, self-contained, and there is no penalty for stopping or retrying." }
+    ]
+  },
+
+  "faqPage": {
+    "items": [
+      { "q": "Is Huntopia really free?",          "a": "Yes. Huntopia is completely free — no subscriptions, no in-app purchases, no hidden costs." },
+      { "q": "What devices can I play on?",       "a": "Huntopia runs on any modern browser — Windows, Mac, iOS, Android, Chromebook. No download is required on any platform." },
+      { "q": "How does the game work?",           "a": "Huntopia uses simple one-touch or mouse controls. Each stage presents a clear objective — tap or click on the right targets at the right moment. Stages progress gradually in speed and complexity." },
+      { "q": "How many levels are there?",        "a": "Huntopia has over 100 stages. The difficulty increases gradually, introducing new variations without overwhelming the player." },
+      { "q": "Can I play offline?",               "a": "Huntopia requires a connection to load. Once loaded, the data requirement is minimal for continued play." },
+      { "q": "Is my progress saved?",            "a": "Progress is stored locally in your browser. Playing on the same device and browser preserves your completed stages automatically." },
+      { "q": "Is Huntopia safe for children?",    "a": "Yes. There are no in-app purchases, no ads targeting children, no chat features, and no data collection from under-13 players. It is safe for all ages." },
+      { "q": "Do I need to create an account?",   "a": "No account is needed. Navigate to the Play page and start immediately — no email, no password, no personal details required." }
+    ]
+  },
+
+  "howToPlayPage": {
+    "intro": "Huntopia is a casual game built around a simple core loop: spot the target, act at the right moment, and progress through stages. Controls are deliberately minimal — one tap or click handles everything. The challenge comes from timing, speed, and the gradual introduction of new variations as stages advance.",
+    "steps": [
+      { "title": "Identify the Target",      "desc": "Each stage clearly highlights what needs your attention. Look for the active element on screen — the game design makes targets visually distinct so you always know where to focus." },
+      { "title": "Act at the Right Moment",  "desc": "Tap or click when the opportunity presents itself. Huntopia rewards attentiveness and timing over rapid button-mashing. Accurate, well-timed inputs score better than frantic ones." },
+      { "title": "Advance Through Stages",   "desc": "Completing a stage unlocks the next. If a stage proves tricky, retry without penalty — there are no lives to lose and no waiting period before you can play again." }
+    ],
+    "mechanic": {
+      "title": "The Core Loop",
+      "desc": "Huntopia's core loop is: observe, react, progress. The game presents a stimulus, you respond to it correctly, and the stage advances. This loop is fast, clear, and forgiving. Early stages build familiarity with the rhythm; later stages increase tempo and introduce variations on the same interaction. The loop never fundamentally changes — only its speed and complexity do."
+    },
+    "difficultyProgression": "Stages 1–20 establish the core rhythm at a relaxed pace. Targets appear clearly and response windows are generous. Stages 21–60 increase the tempo and begin introducing secondary variations — slightly different target types or interaction patterns. From stage 61 onward, speed increases meaningfully, multiple targets may appear simultaneously, and precision matters more. The game never becomes punishing, but later stages genuinely require focus.",
+    "tips": [
+      { "title": "Focus on Accuracy Over Speed",   "desc": "In early stages, the temptation is to tap as fast as possible. Resist it. Accurate inputs consistently outperform fast but imprecise ones. Build the habit of precise responses in early stages — the habit pays off significantly in faster later stages." },
+      { "title": "Watch for Patterns",             "desc": "Huntopia stages follow repeating rhythms. After a few repetitions, you will notice that targets appear in predictable sequences. Anticipating where the next target appears is faster than reacting to it after it appears. Pattern anticipation is one of the clearest signs of improving at casual rhythm games." },
+      { "title": "Stay Relaxed",                  "desc": "Casual games play best when you are relaxed. Tension in your hands leads to mistimed taps. Take a breath before a stage you have been struggling with. Physical relaxation consistently improves timing precision in reaction-based games." },
+      { "title": "Short Sessions Perform Better",  "desc": "Casual games like Huntopia are designed for short bursts, not marathon sessions. Attention and timing both degrade after 20–30 minutes of continuous play. Two 15-minute sessions separated by a break produce better results than one 30-minute session without one." },
+      { "title": "Enjoy the Process",             "desc": "The point of casual play is the experience itself, not only the progress. Huntopia is designed to be enjoyable at every stage. If a stage is not clicking on a given day, stop and return later. Casual games reward a fresh mind more than persistence through fatigue." }
+    ]
+  },
+
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Tips, strategies, and the science behind casual play — everything you need to get more out of Huntopia.",
+    "introParagraph": "Casual games deserve proper guides too. These articles cover how to play better, what makes casual games enjoyable, and why short play sessions are genuinely good for your brain.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Huntopia: A Complete Beginner's Guide",
+        "excerpt": "New to Huntopia? This guide covers the core mechanic, how to access the game, and what to focus on in your first session.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "🗺️",
+        "sections": [
+          {
+            "heading": "What Is Huntopia?",
+            "paragraphs": [
+              "Huntopia is a casual browser game built for quick, enjoyable sessions. The core interaction is simple: spot the target, react at the right moment, and progress through stages. Controls consist of a single tap or click — no complex button combinations, no control schemes to memorise, nothing between you and the game.",
+              "The game progresses through stages, each slightly faster or more varied than the last. The difficulty curve is deliberately forgiving. Huntopia is designed for players who want engaging, satisfying play without the investment a more complex game demands."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Navigate to the Play page on this site. Huntopia loads immediately in any modern browser — desktop, tablet, or mobile. No download, no account, and no payment is required at any point. On mobile, the game uses full touch controls; on desktop, the mouse handles everything.",
+              "The game starts with a brief introduction to the controls. It takes about 20 seconds. After that, the first stage begins and you are playing."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "The opening stages are intentionally easy. They exist to introduce the rhythm of the game — the cadence of targets appearing, the timing of responses, the visual language of the interface. Do not skip past them quickly. Developing a clean, accurate interaction pattern in these early stages sets you up well for faster stages later.",
+              "By stage five, the core loop is completely clear. From that point, each stage adds a small variation. You will recognise the pattern: same loop, slightly faster or with a new element introduced. Huntopia never reinvents itself — it refines what works."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Head to the Play page and start the first stage. Focus on clean, accurate responses rather than rushing through stages quickly. The game rewards consistent timing, and consistent timing is built in the early stages."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips & Tricks for Huntopia",
+        "excerpt": "These strategies help you progress through stages consistently and get more enjoyment out of every session.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "💡",
+        "sections": [
+          {
+            "heading": "Master the Core Rhythm First",
+            "paragraphs": [
+              "Before thinking about advanced strategies, ensure you have internalised the core interaction rhythm. Every stage in Huntopia is built on the same basic timing pattern — targets appear, a response window opens, you act. Mastering this rhythm in early stages means later stages feel like a natural speed increase rather than a new challenge.",
+              "Spend extra time on the first ten stages if needed. There is no cost to replaying them, and building solid timing fundamentals in easy stages saves significant frustration in harder ones."
+            ]
+          },
+          {
+            "heading": "React to the Whole Screen",
+            "paragraphs": [
+              "A common beginner mistake is focusing too narrowly on one part of the play area. In later stages, targets can appear at different positions. Players who keep their visual attention distributed across the full screen react faster and more accurately than players who fixate on one zone.",
+              "Practice scanning the full play area between interactions. This wider attention pattern feels unnatural at first but becomes automatic within a few sessions — and it is one of the clearest performance differences between early-stage and late-stage players."
+            ]
+          },
+          {
+            "heading": "Recognise Stage Patterns",
+            "paragraphs": [
+              "Huntopia stages follow repeating rhythmic patterns. After two or three attempts at a stage, you will start to anticipate where targets appear and when. Anticipation is consistently faster than reaction. Players who study stage patterns for two or three repetitions before trying to complete them score higher than players who try to react purely on instinct.",
+              "This is not memorisation — it is pattern recognition, which is a natural and powerful cognitive skill that casual games develop consistently with play."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "The most effective advanced technique in rhythm-based casual games is relaxed precision — the ability to tap accurately without physical tension. Gripping a phone tightly or pressing a mouse with excess force reduces fine motor precision. Consciously relaxing your hand before a difficult stage improves timing accuracy measurably.",
+              "The second technique is pre-staging your attention: before a stage begins, take two seconds to set your visual focus at the centre of the screen. This neutral starting position allows you to react equally fast to targets in any part of the play area, rather than having to redirect attention from wherever it happened to be resting."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Huntopia",
+        "excerpt": "Casual games are not just entertainment. Here is what research says about the cognitive effects of reaction-based play.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "🧠",
+        "sections": [
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Reaction-based casual games engage the brain's attentional networks consistently and efficiently. Each stimulus-response cycle — target appears, player reacts — exercises selective attention and response inhibition, two executive functions with broad relevance to everyday performance.",
+              "Research on casual game play and cognitive function shows that consistent engagement with reaction-based games improves visual processing speed and reduces hesitation in decision-making. These benefits are modest but real, and they accumulate with regular short sessions better than with infrequent long ones."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Casual games that require pattern recognition and timing — as Huntopia does — develop a specific form of practical problem-solving: the ability to identify the right action quickly under mild time pressure. This maps directly to real-world scenarios that require rapid, accurate judgment.",
+              "Players who develop strong pattern-recognition skills through casual game play consistently transfer those skills to other reaction-based contexts. The underlying cognitive mechanism — quickly classifying a stimulus and selecting the correct response — is domain-general and broadly useful."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "Casual games with forgiving mechanics and short sessions are among the most effective formats for brief stress relief. The combination of mild engagement, clear feedback, and no punishing fail states creates a low-stakes cognitive environment where the brain can decompress without disengaging entirely.",
+              "A 10–15 minute Huntopia session provides enough stimulation to prevent the rumination associated with unstructured rest, while the low stakes prevent the arousal that makes more competitive games counterproductive for stress relief. This is why casual games remain consistently popular as short-break activities."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "Screen time varies enormously in its cognitive demand. Passive content consumption — scrolling, watching — engages the brain very differently from active games requiring timing and attention. Huntopia, as a reaction-based game, requires continuous active processing — each session is cognitively active even when it feels relaxed.",
+              "For younger players, casual games that reward accurate timing over raw speed support development of impulse control and attentional focus. The game's forgiving mechanics mean children are not punished for imprecision — they simply improve through repeated play, which is a healthy and motivating feedback structure."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Huntopia",
+        "excerpt": "Improving at casual games is a real skill. These strategies help you progress faster and enjoy harder stages more.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "📈",
+        "sections": [
+          {
+            "heading": "Focus on Clean Performance",
+            "paragraphs": [
+              "The clearest measure of improvement in Huntopia is completing stages with consistent, accurate responses — not just finishing them by any means necessary. Players who focus on clean performance in easier stages develop the precision habits that carry directly into harder ones.",
+              "Set a personal standard: aim to complete each stage without a single mistimed input before moving to the next. This standard is achievable in early stages and builds the precise response pattern that later stages demand."
+            ]
+          },
+          {
+            "heading": "Identify What Goes Wrong",
+            "paragraphs": [
+              "When a stage is difficult, identify the specific moment it breaks down. Is it a particular target position that catches you off-guard? A tempo increase at a specific point in the stage? A new target type that appears for the first time? Casual games with consistent stage design repeat their challenge patterns — once you name the problem, solving it is straightforward.",
+              "Players who diagnose the specific failure point before retrying improve faster than players who retry blind. Even 10 seconds of reflection after a failed attempt changes the quality of the next attempt significantly."
+            ]
+          },
+          {
+            "heading": "Build a Warm-Up Habit",
+            "paragraphs": [
+              "Reaction time and timing precision both improve during the first 5–10 minutes of a play session. Playing easier stages at the start of a session — even stages you have already completed — serves as a warm-up that measurably improves performance on harder stages later in the session.",
+              "This is not unique to casual games — athletes, musicians, and surgeons all show better performance after structured warm-up periods. A two-minute warm-up of familiar Huntopia stages is a low-cost investment with a consistent performance return."
+            ]
+          },
+          {
+            "heading": "Play Regularly in Short Sessions",
+            "paragraphs": [
+              "Timing precision and pattern recognition both benefit more from frequent short sessions than from infrequent long ones. The brain consolidates reaction patterns during rest between sessions. Playing for 15 minutes daily produces better improvement than playing for 90 minutes once a week.",
+              "Huntopia is specifically designed for this session length. Each stage takes one to three minutes, making it easy to play a meaningful number of stages in a short break. The game does not demand long commitments — short, regular sessions are both practical and optimal."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Huntopia for Kids: A Parent's Complete Guide",
+        "excerpt": "A guide for parents on Huntopia — what the game involves, what children gain from playing it, and how to manage healthy screen time.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "👨‍👩‍👧",
+        "sections": [
+          {
+            "heading": "Is Huntopia Safe for Children?",
+            "paragraphs": [
+              "Huntopia is safe for players of all ages. The game carries no in-app purchases — there is nothing to buy and no mechanism to spend money through the game interface. There are no ads targeting children and no social, chat, or communication features of any kind. Children cannot interact with other players, share personal information, or be exposed to advertising through the game.",
+              "No account or registration is required to play. The game collects no personal data and stores no user information beyond local session progress saved in the browser itself."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Huntopia develops reaction speed, sustained attention, and visual pattern recognition — skills with direct relevance to academic and everyday performance. The game's forgiving mechanics mean children are not penalised for imprecision in a way that discourages continued play. Instead, they improve naturally through repetition, which is an authentic and positive learning structure.",
+              "Casual games that reward timing over speed also develop impulse control — the ability to wait for the right moment rather than reacting immediately to every stimulus. This is a key executive function in early childhood development and one that transfers broadly across learning contexts."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Set clear session limits before your child begins. Huntopia stages are short — typically one to three minutes — so stage counts work better than time limits for agreeing when to stop. Five stages and then we stop is a practical, enforceable boundary that children respond to well.",
+              "Observe your child playing occasionally and ask them to explain what they are doing. Children who can articulate game mechanics demonstrate that they are actively processing the game rather than passively reacting. Active engagement produces the cognitive benefits; passive button-pressing does not."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "Huntopia is designed and operated in compliance with the Children's Online Privacy Protection Act (COPPA). No personal data is collected from children under 13. The game requires no registration and stores no user data beyond local browser session information.",
+              "There are no external links within the game, no advertising networks, and no third-party social integrations of any kind. The game environment is entirely self-contained — the safest possible configuration for younger players engaging with browser-based casual games."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
