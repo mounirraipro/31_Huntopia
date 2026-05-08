@@ -4,22 +4,40 @@
   "slug": "huntopia",
   "genre": "Casual",
   "iframeUrl": "/game/index.html",
-
   "seo": {
     "title": "Huntopia – Free Casual Game Online | Play Now",
     "description": "Play Huntopia free online — a casual browser game with simple controls and instant action. No download, no account needed. Start playing in seconds.",
-    "keywords": ["Huntopia", "Huntopia online", "free casual game online", "easy browser game", "play casual game no download", "Huntopia game", "quick browser game free"]
+    "keywords": [
+      "Huntopia",
+      "Huntopia online",
+      "free casual game online",
+      "easy browser game",
+      "play casual game no download",
+      "Huntopia game",
+      "quick browser game free"
+    ]
   },
-
   "homepage": {
     "heroHeadline": "Huntopia — Free Casual Game Online",
     "heroSubtitle": "Pick up and play instantly. Simple controls, satisfying sessions. No download, no account.",
     "lede": "Huntopia is a free casual browser game built for quick, satisfying sessions. Simple one-touch controls, no punishing fail states, and a gameplay loop designed to be picked up and put down any time — no installation required.",
     "stats": [
-      { "value": "100+",  "label": "Stages" },
-      { "value": "1",     "label": "Tap to Play" },
-      { "value": "0",     "label": "Downloads Needed" },
-      { "value": "100%",  "label": "Free Forever" }
+      {
+        "value": "100+",
+        "label": "Stages"
+      },
+      {
+        "value": "1",
+        "label": "Tap to Play"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
     ],
     "about": {
       "kicker": "What is Huntopia?",
@@ -32,69 +50,200 @@
       "subheading": "One tap gets you started. Everything else you will pick up naturally within the first two minutes."
     },
     "steps": [
-      { "icon": "folder",       "title": "Open the Game",           "desc": "Navigate to the Play page. Huntopia loads immediately in your browser — no download, no account, no payment required." },
-      { "icon": "eye",          "title": "See What Is on Screen",   "desc": "The play area is clear by design. Targets and interactive elements are visually distinct — you will instantly understand what needs your attention." },
-      { "icon": "refresh",      "title": "Tap or Click to Act",     "desc": "Huntopia uses simple one-touch controls. Tap or click on targets when the moment is right. Timing and accuracy are the core skills the game develops." },
-      { "icon": "puzzle",       "title": "Progress Through Stages", "desc": "Each stage introduces a slight variation or increase in speed. The difficulty curve is forgiving — new mechanics arrive gradually, never all at once." },
-      { "icon": "check-circle", "title": "Complete Each Session",   "desc": "Sessions end cleanly with a clear result. There is no penalty for stopping mid-game. Pick up where you left off or start fresh — the choice is yours." }
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Navigate to the Play page. Huntopia loads immediately in your browser — no download, no account, no payment required."
+      },
+      {
+        "icon": "eye",
+        "title": "See What Is on Screen",
+        "desc": "The play area is clear by design. Targets and interactive elements are visually distinct — you will instantly understand what needs your attention."
+      },
+      {
+        "icon": "refresh",
+        "title": "Tap or Click to Act",
+        "desc": "Huntopia uses simple one-touch controls. Tap or click on targets when the moment is right. Timing and accuracy are the core skills the game develops."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Progress Through Stages",
+        "desc": "Each stage introduces a slight variation or increase in speed. The difficulty curve is forgiving — new mechanics arrive gradually, never all at once."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Complete Each Session",
+        "desc": "Sessions end cleanly with a clear result. There is no penalty for stopping mid-game. Pick up where you left off or start fresh — the choice is yours."
+      }
     ],
     "categories": [
-      { "name": "Casual",      "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
-      { "name": "Regular",     "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
-      { "name": "Seasoned",    "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
-      { "name": "Veteran",     "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
-      { "name": "Champion",    "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+      {
+        "name": "Casual",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Regular",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Seasoned",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Veteran",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Champion",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
     ],
     "features": [
-      { "icon": "bolt",   "title": "Instant Play",             "desc": "Open Huntopia in any browser and the game is running in seconds. No install, no account, no waiting — just immediate play." },
-      { "icon": "target", "title": "Clear Objectives",         "desc": "Every stage has a straightforward goal. What you need to do is always visible, so you can focus on doing it rather than decoding the interface." },
-      { "icon": "device", "title": "Cross-Platform",           "desc": "Touch controls on mobile, mouse on desktop. Huntopia plays smoothly on every device and screen size without adjustments from you." },
-      { "icon": "image",  "title": "Bright Visual Feedback",   "desc": "Every successful action triggers immediate visual confirmation. The game responds clearly to every tap and click, making progress feel satisfying." },
-      { "icon": "shield", "title": "Safe for All Ages",        "desc": "No in-app purchases, no advertising targeting children, no chat features. Huntopia is safe and appropriate for players of every age." },
-      { "icon": "music",  "title": "Light Audio Design",       "desc": "Sound effects confirm every action without overwhelming the experience. Background audio sets an energetic but relaxed tone for casual sessions." }
+      {
+        "icon": "bolt",
+        "title": "Instant Play",
+        "desc": "Open Huntopia in any browser and the game is running in seconds. No install, no account, no waiting — just immediate play."
+      },
+      {
+        "icon": "target",
+        "title": "Clear Objectives",
+        "desc": "Every stage has a straightforward goal. What you need to do is always visible, so you can focus on doing it rather than decoding the interface."
+      },
+      {
+        "icon": "device",
+        "title": "Cross-Platform",
+        "desc": "Touch controls on mobile, mouse on desktop. Huntopia plays smoothly on every device and screen size without adjustments from you."
+      },
+      {
+        "icon": "image",
+        "title": "Bright Visual Feedback",
+        "desc": "Every successful action triggers immediate visual confirmation. The game responds clearly to every tap and click, making progress feel satisfying."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe for All Ages",
+        "desc": "No in-app purchases, no advertising targeting children, no chat features. Huntopia is safe and appropriate for players of every age."
+      },
+      {
+        "icon": "music",
+        "title": "Light Audio Design",
+        "desc": "Sound effects confirm every action without overwhelming the experience. Background audio sets an energetic but relaxed tone for casual sessions."
+      }
     ],
     "faq": [
-      { "q": "What is Huntopia?",             "a": "Huntopia is a free casual browser game with simple tap-or-click controls and short, self-contained play sessions. It is designed for quick, stress-free play on any device." },
-      { "q": "Is Huntopia free?",             "a": "Yes — Huntopia is entirely free. There are no paywalls, no in-app purchases, and no premium subscriptions." },
-      { "q": "Does Huntopia work on mobile?", "a": "Yes. Huntopia runs in any modern mobile browser with full touch support. No app download is required." },
-      { "q": "How many levels are there?",    "a": "Huntopia features over 100 stages with a forgiving progression curve. Each stage introduces small variations to keep sessions feeling fresh." },
-      { "q": "Is Huntopia safe for kids?",    "a": "Yes. There are no in-app purchases, no ads targeting children, and no social features. The game is safe and age-appropriate for all players." },
-      { "q": "Do I need an account?",         "a": "No account is required. Open the Play page and start immediately — no registration, email, or personal information needed." }
+      {
+        "q": "What is Huntopia?",
+        "a": "Huntopia is a free casual browser game with simple tap-or-click controls and short, self-contained play sessions. It is designed for quick, stress-free play on any device."
+      },
+      {
+        "q": "Is Huntopia free?",
+        "a": "Yes — Huntopia is entirely free. There are no paywalls, no in-app purchases, and no premium subscriptions."
+      },
+      {
+        "q": "Does Huntopia work on mobile?",
+        "a": "Yes. Huntopia runs in any modern mobile browser with full touch support. No app download is required."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "Huntopia features over 100 stages with a forgiving progression curve. Each stage introduces small variations to keep sessions feeling fresh."
+      },
+      {
+        "q": "Is Huntopia safe for kids?",
+        "a": "Yes. There are no in-app purchases, no ads targeting children, and no social features. The game is safe and age-appropriate for all players."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is required. Open the Play page and start immediately — no registration, email, or personal information needed."
+      }
     ],
     "cta": {
       "headline": "Ready to play your first stage?",
       "subtext": "No download, no sign-up. Open Huntopia in your browser and start playing within seconds."
     }
   },
-
   "playPage": {
     "howItWorksSubtitle": "Three steps to your first Huntopia session",
     "steps": [
-      { "title": "Open the Game",        "desc": "Visit the Play page. Huntopia loads instantly in any browser — no install, no account needed." },
-      { "title": "Tap or Click to Play", "desc": "Use simple one-touch or mouse controls to interact with targets. The objective is always clear on screen." },
-      { "title": "Complete Each Stage",  "desc": "Finish stages to progress. Sessions are short, self-contained, and there is no penalty for stopping or retrying." }
+      {
+        "title": "Open the Game",
+        "desc": "Visit the Play page. Huntopia loads instantly in any browser — no install, no account needed."
+      },
+      {
+        "title": "Tap or Click to Play",
+        "desc": "Use simple one-touch or mouse controls to interact with targets. The objective is always clear on screen."
+      },
+      {
+        "title": "Complete Each Stage",
+        "desc": "Finish stages to progress. Sessions are short, self-contained, and there is no penalty for stopping or retrying."
+      }
     ]
   },
-
   "faqPage": {
     "items": [
-      { "q": "Is Huntopia really free?",          "a": "Yes. Huntopia is completely free — no subscriptions, no in-app purchases, no hidden costs." },
-      { "q": "What devices can I play on?",       "a": "Huntopia runs on any modern browser — Windows, Mac, iOS, Android, Chromebook. No download is required on any platform." },
-      { "q": "How does the game work?",           "a": "Huntopia uses simple one-touch or mouse controls. Each stage presents a clear objective — tap or click on the right targets at the right moment. Stages progress gradually in speed and complexity." },
-      { "q": "How many levels are there?",        "a": "Huntopia has over 100 stages. The difficulty increases gradually, introducing new variations without overwhelming the player." },
-      { "q": "Can I play offline?",               "a": "Huntopia requires a connection to load. Once loaded, the data requirement is minimal for continued play." },
-      { "q": "Is my progress saved?",            "a": "Progress is stored locally in your browser. Playing on the same device and browser preserves your completed stages automatically." },
-      { "q": "Is Huntopia safe for children?",    "a": "Yes. There are no in-app purchases, no ads targeting children, no chat features, and no data collection from under-13 players. It is safe for all ages." },
-      { "q": "Do I need to create an account?",   "a": "No account is needed. Navigate to the Play page and start immediately — no email, no password, no personal details required." }
+      {
+        "q": "Is Huntopia really free?",
+        "a": "Yes. Huntopia is completely free — no subscriptions, no in-app purchases, no hidden costs."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Huntopia runs on any modern browser — Windows, Mac, iOS, Android, Chromebook. No download is required on any platform."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "Huntopia uses simple one-touch or mouse controls. Each stage presents a clear objective — tap or click on the right targets at the right moment. Stages progress gradually in speed and complexity."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "Huntopia has over 100 stages. The difficulty increases gradually, introducing new variations without overwhelming the player."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Huntopia requires a connection to load. Once loaded, the data requirement is minimal for continued play."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress is stored locally in your browser. Playing on the same device and browser preserves your completed stages automatically."
+      },
+      {
+        "q": "Is Huntopia safe for children?",
+        "a": "Yes. There are no in-app purchases, no ads targeting children, no chat features, and no data collection from under-13 players. It is safe for all ages."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No account is needed. Navigate to the Play page and start immediately — no email, no password, no personal details required."
+      }
     ]
   },
-
   "howToPlayPage": {
     "intro": "Huntopia is a casual game built around a simple core loop: spot the target, act at the right moment, and progress through stages. Controls are deliberately minimal — one tap or click handles everything. The challenge comes from timing, speed, and the gradual introduction of new variations as stages advance.",
     "steps": [
-      { "title": "Identify the Target",      "desc": "Each stage clearly highlights what needs your attention. Look for the active element on screen — the game design makes targets visually distinct so you always know where to focus." },
-      { "title": "Act at the Right Moment",  "desc": "Tap or click when the opportunity presents itself. Huntopia rewards attentiveness and timing over rapid button-mashing. Accurate, well-timed inputs score better than frantic ones." },
-      { "title": "Advance Through Stages",   "desc": "Completing a stage unlocks the next. If a stage proves tricky, retry without penalty — there are no lives to lose and no waiting period before you can play again." }
+      {
+        "title": "Identify the Target",
+        "desc": "Each stage clearly highlights what needs your attention. Look for the active element on screen — the game design makes targets visually distinct so you always know where to focus."
+      },
+      {
+        "title": "Act at the Right Moment",
+        "desc": "Tap or click when the opportunity presents itself. Huntopia rewards attentiveness and timing over rapid button-mashing. Accurate, well-timed inputs score better than frantic ones."
+      },
+      {
+        "title": "Advance Through Stages",
+        "desc": "Completing a stage unlocks the next. If a stage proves tricky, retry without penalty — there are no lives to lose and no waiting period before you can play again."
+      }
     ],
     "mechanic": {
       "title": "The Core Loop",
@@ -102,14 +251,28 @@
     },
     "difficultyProgression": "Stages 1–20 establish the core rhythm at a relaxed pace. Targets appear clearly and response windows are generous. Stages 21–60 increase the tempo and begin introducing secondary variations — slightly different target types or interaction patterns. From stage 61 onward, speed increases meaningfully, multiple targets may appear simultaneously, and precision matters more. The game never becomes punishing, but later stages genuinely require focus.",
     "tips": [
-      { "title": "Focus on Accuracy Over Speed",   "desc": "In early stages, the temptation is to tap as fast as possible. Resist it. Accurate inputs consistently outperform fast but imprecise ones. Build the habit of precise responses in early stages — the habit pays off significantly in faster later stages." },
-      { "title": "Watch for Patterns",             "desc": "Huntopia stages follow repeating rhythms. After a few repetitions, you will notice that targets appear in predictable sequences. Anticipating where the next target appears is faster than reacting to it after it appears. Pattern anticipation is one of the clearest signs of improving at casual rhythm games." },
-      { "title": "Stay Relaxed",                  "desc": "Casual games play best when you are relaxed. Tension in your hands leads to mistimed taps. Take a breath before a stage you have been struggling with. Physical relaxation consistently improves timing precision in reaction-based games." },
-      { "title": "Short Sessions Perform Better",  "desc": "Casual games like Huntopia are designed for short bursts, not marathon sessions. Attention and timing both degrade after 20–30 minutes of continuous play. Two 15-minute sessions separated by a break produce better results than one 30-minute session without one." },
-      { "title": "Enjoy the Process",             "desc": "The point of casual play is the experience itself, not only the progress. Huntopia is designed to be enjoyable at every stage. If a stage is not clicking on a given day, stop and return later. Casual games reward a fresh mind more than persistence through fatigue." }
+      {
+        "title": "Focus on Accuracy Over Speed",
+        "desc": "In early stages, the temptation is to tap as fast as possible. Resist it. Accurate inputs consistently outperform fast but imprecise ones. Build the habit of precise responses in early stages — the habit pays off significantly in faster later stages."
+      },
+      {
+        "title": "Watch for Patterns",
+        "desc": "Huntopia stages follow repeating rhythms. After a few repetitions, you will notice that targets appear in predictable sequences. Anticipating where the next target appears is faster than reacting to it after it appears. Pattern anticipation is one of the clearest signs of improving at casual rhythm games."
+      },
+      {
+        "title": "Stay Relaxed",
+        "desc": "Casual games play best when you are relaxed. Tension in your hands leads to mistimed taps. Take a breath before a stage you have been struggling with. Physical relaxation consistently improves timing precision in reaction-based games."
+      },
+      {
+        "title": "Short Sessions Perform Better",
+        "desc": "Casual games like Huntopia are designed for short bursts, not marathon sessions. Attention and timing both degrade after 20–30 minutes of continuous play. Two 15-minute sessions separated by a break produce better results than one 30-minute session without one."
+      },
+      {
+        "title": "Enjoy the Process",
+        "desc": "The point of casual play is the experience itself, not only the progress. Huntopia is designed to be enjoyable at every stage. If a stage is not clicking on a given day, stop and return later. Casual games reward a fresh mind more than persistence through fatigue."
+      }
     ]
   },
-
   "blog": {
     "headline": "Guides &amp; Strategy",
     "subheading": "Tips, strategies, and the science behind casual play — everything you need to get more out of Huntopia.",
@@ -310,5 +473,7 @@
         ]
       }
     ]
-  }
+  },
+  "embedUrl": "https://html5.gamemonetize.co/ubcvklxh46y40jktna9twhqj4t8ez42y/",
+  "embedSource": "GameMonetize - Hunt And Seek"
 }
