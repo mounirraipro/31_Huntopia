@@ -310,4 +310,14 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+    'huntopia-casual-play-guide': {
+        slug: 'huntopia-casual-play-guide',
+        title: 'Huntopia Beginner Guide: How to Play Better in Short Casual Sessions',
+        description: 'A friendly Huntopia guide to timing, target focus, short-session practice, mobile comfort, and steady casual game improvement.',
+        datePublished: '2026-05-19',
+        dateModified: '2026-05-19',
+        keywords: ['Huntopia guide', 'Huntopia tips', 'casual browser game', 'short session game'],
+        category: 'Guide',
+        readTime: '12 min read',
+    },
 };
